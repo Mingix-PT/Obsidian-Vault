@@ -17,11 +17,17 @@ $$P(y_k=i|\mathbf{x_k};W)=a_i$$
 
 ### Cải tiến 
 Khi một trong các $z_i$ quá lớn, tính $\exp(z_i)$ có thể bị tràn số -> ảnh hưởng kết quả
-Khắc phục:
+Khắc phục: hàm softmax stable
 $$
 \begin{aligned}
 a_i=\frac{\exp(z_i)}{\sum_{j=1}^C\exp(z_j)}
 &=\frac{\exp(-c)\exp(z_i)}{\exp(-c)\sum_{j=1}^C\exp(z_j)}\\
-&=
+&=\frac{\exp(z_i-c)}{\sum_{j=1}^C\exp(z_j-c)}
 \end{aligned}
 $$
+Trong thực nghiệm, hay chọn $c=\max \mathbf{x}_iz_i$ 
+
+### Hàm mất mát và tối ưu
+#### Cross Entropy
+Cross entropy giữa 2 phân phối $\mathbf{p}$ và $\mathbf{q}$ được định nghĩa là:
+$$H(\mathbf{p,q})=\mathbf{E_p|-\log q|}$$
