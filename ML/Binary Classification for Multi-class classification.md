@@ -7,4 +7,9 @@
 
 ### Hierarchical (phân tầng)
 - Ý tưởng: Phân các classifier thành nhiều các mức độ ưu tiên, phân chia các cặp giống nhau
-- Nhược điểm
+- Nhược điểm: 1 classifier sai -> kết quả chắc chắn sai
+
+### Binary coding
+- Mã hóa output mỗi class = 1 số nhị phân
+	- 4 class: 00, 01, 10, 11
+- Số lượng binary classifiers là $m=\lceil\log_2(C)\rceil$ với $\lceil a\rceil$ là số nguyên nhỏ nhất không nhỏ hơn a.
