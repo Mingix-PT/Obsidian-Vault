@@ -12,4 +12,9 @@
 ### Binary coding
 - Mã hóa output mỗi class = 1 số nhị phân
 	- 4 class: 00, 01, 10, 11
-- Số lượng binary classifiers là $m=\lceil\log_2(C)\rceil$ với $\lceil a\rceil$ là số nguyên nhỏ nhất không nhỏ hơn a.
+- Số lượng binary classifiers là $m=\lceil\log_2(C)\rceil$ với $\lceil a\rceil$ là số nguyên nhỏ nhất không nhỏ hơn a. Dùng $m$ bộ để phân $m$ bit
+- Nhược điểm: 
+	- Sai 1 bit -> sai toàn bộ
+	- Nếu số class không phải là $2^n$ thì có thể mã nhị phân nhận được k tương ứng với class nào
+
+### One-vs-rest (One-hot-coding)
