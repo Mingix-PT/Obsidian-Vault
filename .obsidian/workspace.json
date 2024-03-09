@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Logistic Regression.md",
+                "file": "ML/Feature Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Logistic Regression.md",
+                "file": "ML/Feature Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Logistic Regression.md",
+                "file": "ML/Feature Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Logistic Regression.md"
+                "file": "ML/Feature Engineering.md"
               }
             }
           }
@@ -159,12 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdcecd2acd5e331c",
+  "active": "faa6e79337553d5c",
   "lastOpenFiles": [
-    "Obsidian-Note",
-    "Pasted image 20240309101656.png",
-    "ML/Gradient Descent.md",
+    "img/Pasted image 20240309105337.png",
     "ML/Logistic Regression.md",
+    "ML/Feature Engineering.md",
+    "Obsidian-Note",
+    "img/Pasted image 20240309101656.png",
+    "ML/Gradient Descent.md",
     "ML/Preprocessing Data.md",
     "img/Pasted image 20240308235203.png",
     "UI - UX/Mô hình thực hiện.md",
