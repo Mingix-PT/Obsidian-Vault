@@ -18,3 +18,12 @@
 	- Nếu số class không phải là $2^n$ thì có thể mã nhị phân nhận được k tương ứng với class nào
 
 ### One-vs-rest (One-hot-coding)
+- Xây dựng $C$ classifier tương ứng với $C$ class
+- Classifier thứ $i$ sẽ phân biệt class $i$ và not class $i$ hoặc xác suất để 1 điểm rơi vào class $i$
+- Mã hóa dưới dạng nhị phân: 00..01..00 (bit thứ $i$ là 1 chỉ ra điểm đó thuộc class $i$)
+
+### Biểu diễn Neural Network
+![[Pasted image 20240309224503.png]]
+
+![[Pasted image 20240309224511.png]]
+
