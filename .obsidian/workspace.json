@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Binary Classifiers.md",
+                "file": "ML/Softmax Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Binary Classifiers.md",
+                "file": "ML/Softmax Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Binary Classifiers.md",
+                "file": "ML/Softmax Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Binary Classifiers.md"
+                "file": "ML/Softmax Regression.md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "faa6e79337553d5c",
   "lastOpenFiles": [
     "ML/Feature Engineering.md",
-    "ML/Binary Classifiers.md",
+    "ML/Softmax Regression.md",
     "img/Pasted image 20240309105337.png",
     "ML/Logistic Regression.md",
     "Obsidian-Note",
