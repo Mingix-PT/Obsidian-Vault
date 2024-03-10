@@ -20,5 +20,10 @@ Ví dụ:
 	- Entropy dựa hoàn toàn vào xác suất
 	- Khi các xác suất bằng nhau -> entropy đạt max -> khó dự đoán
 ### Cross Entropy
-Cross entropy giữa 2 phân phối $\mathbf{p}$ và $\mathbf{q}$ được định nghĩa là:
-$$Entropy=-\sum_i^np_i*n_i=-\sum_i^np_i*\log_2(p_i)$$
+- Cross entropy giữa 2 phân phối $\mathbf{P}$ và $\mathbf{Q}$ được định nghĩa là:
+$$CrossEntropy(P,Q)=-\sum_i^np_i*\log_2(q_i)$$
+- Entropy của tín hiệu này có phân phối P (tính kì vọng dựa vào P) nhưng lại được mã hóa dựa vào phân phối Q.
+- Tính chất:
+	- Minimum <=> P == Q
+	- Rất nhạy cảm với sự sai khác của $p_i$ và $q_i$
+	
