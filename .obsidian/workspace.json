@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Softmax Regression.md",
+                "file": "ML/Gradient Descent.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Softmax Regression.md",
+                "file": "ML/Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Softmax Regression.md",
+                "file": "ML/Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Softmax Regression.md"
+                "file": "ML/Gradient Descent.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "faa6e79337553d5c",
   "lastOpenFiles": [
-    "ML/Gradient Descent.md",
     "ML/Softmax Regression.md",
+    "ML/Gradient Descent.md",
     "ML/Entropy.md",
     "ML/Logistic Regression.md",
     "ML/Preprocessing Data.md",

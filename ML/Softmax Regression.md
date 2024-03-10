@@ -92,4 +92,6 @@ $$
 $$
 Vậy công thức cập nhật ma trận trọng số $\mathbf{W}$ là:
 $$\mathbf{W}=\mathbf{W}+\eta\mathbf{x_i(y_i-a_i)}$$
+Khi $C=2$, Softmax Regression và Logistic Regression là giống nhau!
 
+Boundary của Softmax Regression cũng là linear
