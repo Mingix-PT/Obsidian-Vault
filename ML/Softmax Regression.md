@@ -44,4 +44,14 @@ J(\mathbf{W;X;Y})
 &= -\sum_{i=1}^{N}\sum_{j=1}^{C}y_{ji}\log(\frac{\exp(\mathbf{w^{T}_{j}x_{i}})}{\sum_{k=1}^{C}\exp(\mathbf{w^{T}_{k}x_{i}})})
 \end{aligned}
 $$
-Tối ưu:
+Tối ưu sử dụng [Stochastic Gradient Descent](Gradient%20Descent#Stochastic%20Gradient%20Descent) cho mỗi cặp dữ liệu $(\mathbf{x_i;y_i})$:
+$$
+\begin{aligned}
+J_i(\mathbf{W})
+&=J(\mathbf{W;x_i;y_{i})}
+\\
+&=-\sum_{j=1}^{C}y_{ji}\log(\frac{\exp(\mathbf{w^{T}_{j}x_{i}})}{\sum_{k=1}^{C}\exp(\mathbf{w^{T}_{k}x_{i}})})
+\\
+&=-\sum\limits_{j=1}^{C}()
+\end{aligned}
+$$
