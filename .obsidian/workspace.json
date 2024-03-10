@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Logistic Regression.md",
+                "file": "ML/Multi-layer Perceptron.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Logistic Regression.md",
+                "file": "ML/Multi-layer Perceptron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Logistic Regression.md",
+                "file": "ML/Multi-layer Perceptron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Logistic Regression.md"
+                "file": "ML/Multi-layer Perceptron.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "faa6e79337553d5c",
   "lastOpenFiles": [
-    "ML/Entropy.md",
+    "img/Pasted image 20240310233536.png",
+    "ML/Backpropagation.md",
+    "ML/Multi-layer Perceptron.md",
     "ML/Logistic Regression.md",
+    "ML/Entropy.md",
     "ML/Gradient Descent.md",
     "ML/Softmax Regression.md",
     "ML/Preprocessing Data.md",
