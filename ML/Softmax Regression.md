@@ -33,9 +33,12 @@ Trong thực nghiệm, hay chọn $c=\max \mathbf{x}_iz_i$
 - Kích cỡ mã hóa trung bình:
 	- Dùng để so sánh độ hiệu quả của 2 bảng mã hóa
 	- Tính bằng số bit trung bình được truyền đi mỗi lần truyền tin
-	- Ví dụ:
+Ví dụ:
 ![[Pasted image 20240310161602.png]]
-	Average bit 1 = (10.1 + 20)
+	Average bit 1 = $(10*1 + 20*1+40*2+30*2)/100=1.7$ bit
+	Average bit 2 = $(10*2+20*2+40*1+30*1)/100=1.1$ bit
+	=> Bảng 2 tối ưu hơn bảng 1
+	- Kích cỡ mã hóa trung bình tối thiểu
 #### Cross Entropy
 Cross entropy giữa 2 phân phối $\mathbf{p}$ và $\mathbf{q}$ được định nghĩa là:
 $$H(\mathbf{p,q})=\mathbf{E_p|-\log q|}$$
