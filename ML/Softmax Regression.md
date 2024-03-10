@@ -45,7 +45,10 @@ Ví dụ:
 	- Với N tin nhắn, ta cần số bit mã hóa là $n=\log_2(N)$
 	- Giả sử các tin nhắn có tần suất xuất hiện như nhau là $p=1/N$ 
 	- $$n_p=\log_2N=\log_2\frac{1}{p}=-\log_2p$$
-$$Entropy=-\sum_i^np_i*n_i=-\sum_i^np_i*\log_2(p_i)$$
+	- $$Entropy=-\sum_i^np_i*n_i=-\sum_i^np_i*\log_2(p_i)$$
+- Tính chất:
+	- Entropy dựa hoàn toàn vào xác suất
+	- Khi các xác suất bằng nhau -> entropy đạt max -> khó dự đoán
 #### Cross Entropy
 Cross entropy giữa 2 phân phối $\mathbf{p}$ và $\mathbf{q}$ được định nghĩa là:
 $$H(\mathbf{p,q})=\mathbf{E_p|-\log q|}$$
