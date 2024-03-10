@@ -24,6 +24,7 @@ Ví dụ:
 $$CrossEntropy(P,Q)=-\sum_i^np_i*\log_2(q_i)$$
 - Entropy của tín hiệu này có phân phối P (tính kì vọng dựa vào P) nhưng lại được mã hóa dựa vào phân phối Q.
 - Tính chất:
+	- Không đối xứng
 	- Minimum <=> P == Q
 	- Rất nhạy cảm với sự sai khác của $p_i$ và $q_i$
 	
@@ -39,3 +40,5 @@ D_{KL}(P||Q)&=CrossEntropy(P,Q)-Entropy(P)
 $$
 - Tính chất:
 	- Không đối xứng
+	- Rất nhạy cả, với sự sai khác giữa $p_i$ và $q_i$
+	- Trong ML, tối ưu hàm KL_Divergence tương đương tối ưu hàm CrossEntropy

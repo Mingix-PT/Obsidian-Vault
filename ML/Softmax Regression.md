@@ -28,5 +28,11 @@ $$
 Trong thực nghiệm, hay chọn $c=\max \mathbf{x}_iz_i$ 
 
 ### Hàm mất mát và tối ưu
-
+[Cross Entropy](Entropy#Cross%20Entropy) giữa hai phân phối $\mathbf{p}$ và $\mathbf{q}$ được định nghĩa là:
 $$H(\mathbf{p,q})=\mathbf{E_p|-\log q|}$$
+Với p và q rời rạc: $$H(\mathbf{p,q})= -\sum\limits_{i}^{C}p_{i}\log q_i$$
+p là đầu ra thực sự, q là đầu ra dự đoán
+
+Hàm mất mát giữa đầu ra dự đoán và đầu ra thực sự của $\mathbf{x_i}$ là: $$J(\mathbf{W;x_i,y_i})=-\sum^{C}_{j=1}y_{ji}\log(a_{ji})$$
+Hàm mất mát cho Softmax Regression:
+$$J(\mathbf{W;X;Y})$$

@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ML/Softmax Regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2103a95dafb73c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "ML/Entropy.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Entropy.md",
+                "file": "ML/Softmax Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Entropy.md",
+                "file": "ML/Softmax Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Entropy.md"
+                "file": "ML/Softmax Regression.md"
               }
             }
           }
@@ -148,9 +160,10 @@
   },
   "active": "faa6e79337553d5c",
   "lastOpenFiles": [
-    "ML/Softmax Regression.md",
     "ML/Entropy.md",
+    "ML/Softmax Regression.md",
     "ML/Logistic Regression.md",
+    "ML/Preprocessing Data.md",
     "img/Pasted image 20240310161602.png",
     "img/Pasted image 20240310161549.png",
     "img/Pasted image 20240309230139.png",
@@ -162,7 +175,6 @@
     "Obsidian-Note",
     "img/Pasted image 20240309101656.png",
     "ML/Gradient Descent.md",
-    "ML/Preprocessing Data.md",
     "img/Pasted image 20240308235203.png",
     "UI - UX/Mô hình thực hiện.md",
     "ML/Perceptron Learning.md",
