@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1dcf53bfbe2763ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Logistic Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "faa6e79337553d5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Softmax Regression.md",
+                "file": "ML/Entropy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Softmax Regression.md",
+                "file": "ML/Entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Softmax Regression.md",
+                "file": "ML/Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Softmax Regression.md"
+                "file": "ML/Entropy.md"
               }
             }
           }
@@ -161,16 +148,17 @@
   },
   "active": "faa6e79337553d5c",
   "lastOpenFiles": [
+    "ML/Softmax Regression.md",
+    "ML/Entropy.md",
+    "ML/Logistic Regression.md",
     "img/Pasted image 20240310161602.png",
     "img/Pasted image 20240310161549.png",
     "img/Pasted image 20240309230139.png",
     "ML/Binary Classification for Multi-class classification.md",
     "img/Pasted image 20240309224511.png",
     "img/Pasted image 20240309224503.png",
-    "ML/Softmax Regression.md",
     "ML/Feature Engineering.md",
     "img/Pasted image 20240309105337.png",
-    "ML/Logistic Regression.md",
     "Obsidian-Note",
     "img/Pasted image 20240309101656.png",
     "ML/Gradient Descent.md",
@@ -185,7 +173,6 @@
     "UI - UX/Hệ tương tác người - máy.md",
     "KTPM/Agile.md",
     "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
-    "img/Pasted image 20240307084646.png",
     "ITSS/Untitled.md",
     "ITSS/ITSS.md",
     "KTPM/Scrum.md",

@@ -5,7 +5,6 @@ Thường sử dụng cho các bài toán classification
 $$f(\mathbf{x})=\theta(\mathbf{w^T x})$$
 Trong đó $\theta$ được gọi là logistic function
 
-
 ### Bài toán
 
 ![[Pasted image 20240308235203.png]]
