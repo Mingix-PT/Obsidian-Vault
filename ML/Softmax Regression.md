@@ -28,6 +28,8 @@ $$
 Trong thực nghiệm, hay chọn $c=\max \mathbf{x}_iz_i$ 
 
 ### Hàm mất mát và tối ưu
+#### Entropy
+Information entropy: 
 #### Cross Entropy
 Cross entropy giữa 2 phân phối $\mathbf{p}$ và $\mathbf{q}$ được định nghĩa là:
 $$H(\mathbf{p,q})=\mathbf{E_p|-\log q|}$$
