@@ -61,7 +61,7 @@ J(\mathbf{w})&=-\log P(\mathbf{y|X;w}) \\
 \end{aligned}
 $$
 
-Hàm bên phải được gọi là __cross entropy__, thường sử dụng để đo khoảng cách giữa 2 phân phối.
+Hàm bên phải được gọi là [Cross Entropy](Entropy#Cross%20Entropy), thường sử dụng để đo khoảng cách giữa 2 phân phối.
 __Lưu ý__: log trong ML thường để kí hiệu logarit của e
 Đặt $s=\mathbf{w^T x}$, $z=f(s)$ 
 Ta tìm được:
