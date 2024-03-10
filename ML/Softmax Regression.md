@@ -35,4 +35,13 @@ p là đầu ra thực sự, q là đầu ra dự đoán
 
 Hàm mất mát giữa đầu ra dự đoán và đầu ra thực sự của $\mathbf{x_i}$ là: $$J(\mathbf{W;x_i,y_i})=-\sum^{C}_{j=1}y_{ji}\log(a_{ji})$$
 Hàm mất mát cho Softmax Regression:
-$$J(\mathbf{W;X;Y})$$
+$$
+\begin{aligned}
+J(\mathbf{W;X;Y})
+&=
+-\sum_{i=1}^{N}\sum_{j=1}^{C}y_{ji}\log(a_{ji})
+\\
+&= -\sum_{i=1}^{N}\sum_{j=1}^{C}y_{ji}\log(\frac{\exp(\mathbf{w^{T}_{j}x_{i}})}{\sum_{k=1}^{C}\exp(\mathbf{w^{T}_{k}x_{i}})})
+\end{aligned}
+$$
+Tối ưu:
