@@ -30,7 +30,12 @@ Trong thực nghiệm, hay chọn $c=\max \mathbf{x}_iz_i$
 ### Hàm mất mát và tối ưu
 #### Entropy
 - ĐN: Độ bất định, không chắc chắn của thông tin
-- 
+- Kích cỡ mã hóa trung bình:
+	- Dùng để so sánh độ hiệu quả của 2 bảng mã hóa
+	- Tính bằng số bit trung bình được truyền đi mỗi lần truyền tin
+	- Ví dụ:
+![[Pasted image 20240310161602.png]]
+	Average bit 1 = (10.1 + 20)
 #### Cross Entropy
 Cross entropy giữa 2 phân phối $\mathbf{p}$ và $\mathbf{q}$ được định nghĩa là:
 $$H(\mathbf{p,q})=\mathbf{E_p|-\log q|}$$
