@@ -52,6 +52,17 @@ J_i(\mathbf{W})
 \\
 &=-\sum_{j=1}^{C}y_{ji}\log(\frac{\exp(\mathbf{w^{T}_{j}x_{i}})}{\sum_{k=1}^{C}\exp(\mathbf{w^{T}_{k}x_{i}})})
 \\
-&=-\sum\limits_{j=1}^{C}()
+&=-\sum\limits_{j=1}^{C}(y_{ji}\mathbf{w^{T}_{j}x_{i}-y_{ji}\log(\sum\limits^{C}_{k=1}\exp(\mathbf{w^{T}x_{i}})})
+\\
+&=-\sum\limits_{j=1}^{C}y_{ji}\mathbf{w^{T}_{j}x_{i}}+\log(\sum\limits^{C}_{k=1}\exp(\mathbf{w^{T}x_{i})}
 \end{aligned}
 $$
+Có được dòng cuối do $\sum\limits^{C}_{j=1}y_{ji}=1$ vì nó là tổng các xác suất
+Có: $$\frac{\partial J_i(\mathbf{W})}{\partial W}=[
+\frac{\partial J_i(\mathbf{W})}{\partial \mathbf{w_1}},
+\frac{\partial J_i(\mathbf{W})}{\partial \mathbf{w_2}},
+...,
+\frac{\partial J_i(\mathbf{W})}{\partial \mathbf{w_C}}]$$
+Trong đó gradient từng cột tính như sau:
+
+
