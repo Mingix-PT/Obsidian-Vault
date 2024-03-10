@@ -27,3 +27,15 @@ $$CrossEntropy(P,Q)=-\sum_i^np_i*\log_2(q_i)$$
 	- Minimum <=> P == Q
 	- Rất nhạy cảm với sự sai khác của $p_i$ và $q_i$
 	
+### Kullback-Leibler Divergence
+- Dùng để đo tổn thất khi ước lượng, xấp xỉ 1 phân phối P bằng phân phối Q
+- Công thức: $$
+\begin{aligned}
+D_{KL}(P||Q)&=CrossEntropy(P,Q)-Entropy(P)
+\\
+&=-\sum_i^np_i*\log_2(q_i)+\sum_i^np_i*\log_2(p_i) \\
+&=\sum_i^np_i*\log_2\frac{p_i}{q_i}
+\end{aligned}
+$$
+- Tính chất:
+	- Không đối xứng
