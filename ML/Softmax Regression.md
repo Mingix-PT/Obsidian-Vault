@@ -54,7 +54,7 @@ J_i(\mathbf{W})
 \\
 &=-\sum\limits_{j=1}^{C}(y_{ji}\mathbf{w^{T}_{j}x_{i}-y_{ji}\log(\sum\limits^{C}_{k=1}\exp(\mathbf{w^{T}x_{i}})})
 \\
-&=-\sum\limits_{j=1}^{C}y_{ji}\mathbf{w^{T}_{j}x_{i}}+\log(\sum\limits^{C}_{k=1}\exp(\mathbf{w^{T}x_{i})}
+&=-\sum\limits_{j=1}^{C}y_{ji}\mathbf{w^{T}_{j}x_{i}}+\log(\sum\limits^{C}_{k=1}\exp(\mathbf{w^{T}x_{i})})
 \end{aligned}
 $$
 Có được dòng cuối do $\sum\limits^{C}_{j=1}y_{ji}=1$ vì nó là tổng các xác suất
@@ -64,5 +64,32 @@ Có: $$\frac{\partial J_i(\mathbf{W})}{\partial W}=[
 ...,
 \frac{\partial J_i(\mathbf{W})}{\partial \mathbf{w_C}}]$$
 Trong đó gradient từng cột tính như sau:
-
+$$
+\begin{aligned}
+\frac{\partial J_i(\mathbf{W})}{\partial \mathbf{w_j}}
+&=-y_{ji}\mathbf{x_i}+\frac{\exp(\mathbf{w^T_{j}x_i})}{\sum\limits^C_{k=1}\exp(\mathbf{w^T_{j}x_i})}\mathbf{x_i}
+\\
+&=-y_{ji}\mathbf{x_i}+a_{ji}\mathbf{x_i}
+\\
+&=\mathbf{x_i}(a_{ji}-y_{ji})
+\\
+&=e_{ji}\mathbf{x_i}
+\\
+&\mathbf{Where} \; e_{ji} = a_{ji} - y_{ji}
+\end{aligned}
+$$
+$e_{ji} = a_{ji} - y_{ji}$ là sai số dự đoán
+Kết hợp lại ta có:
+$$
+\frac{\partial J_i(\mathbf{W})}{\partial W}
+=\mathbf{x_i}[e_{1i},e_{2i},...e_{Ci}]
+=\mathbf{x_{i}e_{i}^T}
+$$
+$$
+\frac{\partial J(\mathbf{W})}{\partial W}
+=\sum\limits^N_{i=1}\mathbf{x_{i}e_{i}^T}
+=\mathbf{XE^T}
+$$
+Vậy công thức cập nhật ma trận trọng số $\mathbf{W}$ là:
+$$\mathbf{W}=\mathbf{W}+\eta\mathbf{x_i(y_i-a_i)}$$
 
