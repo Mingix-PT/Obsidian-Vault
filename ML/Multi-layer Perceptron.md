@@ -35,4 +35,4 @@ Có 3 loại: input unit, hidden unit, output unit.
 #### Định nghĩa
 - Backpropagation: Là bước cập nhật lại các weight và bias của từng layer
 - Feedforward: Là bước tính giá trị đầu ra của network với mỗi giá trị đầu vào $\mathbf{x}$. 
-- 
+
