@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6dfe5def216b1f14",
+        "id": "22c6235837a17a88",
         "type": "tabs",
         "children": [
           {
-            "id": "faa6e79337553d5c",
+            "id": "491e6a9352f04a5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Overfitting.md",
+                "file": "ML/Linear Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Overfitting.md",
+                "file": "ML/Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Overfitting.md",
+                "file": "ML/Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Overfitting.md"
+                "file": "ML/Linear Regression.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "faa6e79337553d5c",
+  "active": "491e6a9352f04a5f",
   "lastOpenFiles": [
-    "ML/Multi-layer Perceptron.md",
     "ML/Overfitting.md",
+    "ML/Linear Regression.md",
+    "ML/Multi-layer Perceptron.md",
     "ML/Softmax Regression.md",
     "ML/Backpropagation.md",
     "ML/Preprocessing Data.md",
