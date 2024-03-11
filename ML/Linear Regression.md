@@ -18,3 +18,7 @@ Sử dụng [Mini-batch Gradient Descent](Gradient%20Descent#Stochastic%20Gradie
 
 ![[Pasted image 20240311101537.png]]
 
+B là số ví dụ mỗi mini batch, $\eta$ là tốc độ học
+
+### Phân phối chuẩn 
+Mật độ xác suất của phân phối chuẩn với kì vọng $\mu$ và phương sai $\sigma^2$: $$p(z)=$$ 
