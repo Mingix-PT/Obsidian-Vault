@@ -10,4 +10,11 @@ $$
 Nghiệm tối ưu toàn cục:
 $$\mathbf{w^*},b^*=\underset{\mathbf{w},b}{argmin}\;L(\mathbf{w},b)$$
 $$\mathbf{w^*}=\mathbf{(X^{T}X)^{-1}X^T}y$$
-Tuy nhiên 
+Tuy nhiên không sử dụng vì tốn thời gian, tài nguyên tính toán
+
+### Tối ưu bằng Gradient Descent
+Sử dụng [Mini-batch Gradient Descent](Gradient%20Descent#Stochastic%20Gradient%20Descent) để tối ưu hàm mất mát:
+![[Pasted image 20240311101517.png]]
+
+![[Pasted image 20240311101537.png]]
+
