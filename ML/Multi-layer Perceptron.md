@@ -32,4 +32,7 @@ Có 3 loại: input unit, hidden unit, output unit.
 - Trong cùng 1 network, activation như nhau thường được sử dụng -> tính toán đơn giản
 
 ### Backpropagation
-Là bước cập nhật lại các weight và bias của từng layer
+#### Định nghĩa
+- Backpropagation: Là bước cập nhật lại các weight và bias của từng layer
+- Feedforward: Là bước tính giá trị đầu ra của network với mỗi giá trị đầu vào $\mathbf{x}$. 
+- 
