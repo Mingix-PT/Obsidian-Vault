@@ -24,9 +24,12 @@ Có 3 loại: input unit, hidden unit, output unit.
 - Viết dưới dạng vector: $$a^{(l)}=f(\mathbf{W}^{(l)T}a^{(l-1)}+\mathbf{b^{(l)}})$$
 - Hàm sgn không được dùng trong MLP
 - Hàm sigmoid và tanh ít được sử dụng do khi đầu vào có trị tuyệt đối lớn -> gradient rất gần 0 => các hệ số unit gần như k cập nhật
-- Hàm ReLU (Rectified Linear Unit) $$f(s)=\max(0,s)$$ được sử dụng rộng rãi vì hội tụ nhanh hơn các hàm trên. Trong thực nghiệm, mặc dù ReLU k có đạo hàm tại $s=0$, người ta định nghĩa ReLU'(0) = 0
+- Hàm ReLU (Rectified Linear Unit) $$f(s)=\max(0,s)$$được sử dụng rộng rãi vì hội tụ nhanh hơn các hàm trên. Trong thực nghiệm, mặc dù ReLU k có đạo hàm tại $s=0$, người ta định nghĩa ReLU'(0) = 0
 
 #### Lưu ý:
 - Output layer nhiều khi không có activation function mà sử dụng giá trị đầu vào của mỗi unit -> hàm _identity_
 - Với các bài toán classification, output layer thường là layer [[Softmax Regression]]
 - Trong cùng 1 network, activation như nhau thường được sử dụng -> tính toán đơn giản
+
+### Backpropagation
+Là bước cập nhật lại các weight và bias của từng layer
