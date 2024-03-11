@@ -21,4 +21,4 @@ Sử dụng [Mini-batch Gradient Descent](Gradient%20Descent#Stochastic%20Gradie
 B là số ví dụ mỗi mini batch, $\eta$ là tốc độ học
 
 ### Phân phối chuẩn 
-Mật độ xác suất của phân phối chuẩn với kì vọng $\mu$ và phương sai $\sigma^2$: $$p(z)=$$ 
+Mật độ xác suất của phân phối chuẩn với kì vọng $\mu$ và phương sai $\sigma^2$: $$p(z)=\frac{1}{\sqrt{2\pi\sigma^2}}\exp(-\frac{1}{2\sigma^2}(z-\mu)^2)$$Giả định các quan sát bắt nguồn từ những quan sát nhiễu 
