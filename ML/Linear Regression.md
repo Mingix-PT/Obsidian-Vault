@@ -1,5 +1,7 @@
 ### Bài toán
-Cho tập dữ liệu $\mathbf{X}$, cần tìm weight $\mathbf{w}$ và bias $b$ để dự đoán hàm tuyến tính $$\overset{\textasciicircum}{\mathbf{y}} =\mathbf{Xw}+b$$ 
+Cho tập dữ liệu $\mathbf{X}$, cần tìm weight $\mathbf{w}$ và bias $b$ để dự đoán hàm tuyến tính 
+$$f(\mathbf{x})=w_0+w_1x_{1}+ w_2x_{2}+...+w_nx_n$$
+$$\overset{\textasciicircum}{\mathbf{y}} =\mathbf{Xw}+b$$ 
 ### Hàm mất mát
 Bình phương tối thiểu: $$l^{(i)}(\mathbf{w},b)=\frac{1}{2}(\overset{\textasciicircum}{y}^{(i)}-y^{(i)})^2$$
 $$L(\mathbf{w},b)
