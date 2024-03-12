@@ -26,6 +26,9 @@ B là số ví dụ mỗi mini batch, $\eta$ là tốc độ học
 Thêm 1 hằng số phạt $\lambda$ vào công thức tối ưu $\mathbf{w}$
 $$\mathbf{w}=\underset{\mathbf{w}}{argmin}\sum\limits^M_{i=1}(y_i-\mathbf{A_{i}w}^2)+\lambda\sum\limits^n_{j=0}\mathbf{w}_{j}^{2}$$
 $\lambda$ là siêu tham số, không học mà phải điều chỉnh 1 cách thủ công tại mỗi vòng lặp
+Giải bài toán trên tương đương với việc giải bài toán:
+$$\mathbf{w}=\underset{\mathbf{w}}{argmin}\sum\limits^M_{i=1}(y_i-\mathbf{A_{i}w}^2)$$
+sao cho $\sum\limits^n_{j=0}\mathbf{w}_{j}^{2}\leq t$    với $t$ cho trước
 ### Phân phối chuẩn 
 Mật độ xác suất của phân phối chuẩn với kì vọng $\mu$ và phương sai $\sigma^2$: $$p(z)=\frac{1}{\sqrt{2\pi\sigma^2}}\exp(-\frac{1}{2\sigma^2}(z-\mu)^2)$$Giả định các quan sát bắt nguồn từ những quan sát nhiễu 
 
