@@ -19,3 +19,20 @@ Là 1 chuỗi các hoạt động độc đáo, phức tạp, có tính kế n�
 2. Thành công trong dự án
 3. Thành công trong nghiệp vụ
 4. Tiềm năng tương lai
+
+#### Các ràng buộc
+Quản lý dự án để đưa ra sản phẩm cuối cùng
+- Ngân sách
+- Đúng hạn
+- Phù hợp đặc tả
+- Nguồn lực được cấp
+- Đối phó rủi ro
+
+#### Các thành phần của quản lý
+1. Con người: Quan trọng nhất
+	1. Các bên liên quan: 
+		- Là cá nhân, nhóm hoặc tổ chức có thể ảnh hưởng, bị ảnh hưởng hoặc thấy bản thân bị ảnh hưởng bởi quyết định hđ hoặc kết quả dự án
+	2. Nhóm phát triển phần mềm
+2. Sản phẩm
+3. Quy trình
+4. Dự án
