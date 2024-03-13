@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Linear Regression.md",
+                "file": "KTPM/Scrum.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Linear Regression.md",
+                "file": "KTPM/Scrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Linear Regression.md",
+                "file": "KTPM/Scrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Linear Regression.md"
+                "file": "KTPM/Scrum.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "491e6a9352f04a5f",
   "lastOpenFiles": [
+    "KTPM/Agile.md",
+    "ML/Linear Regression.md",
     "img/Pasted image 20240311101537.png",
     "img/Pasted image 20240311101517.png",
     "ML/Entropy.md",
     "ML/Softmax Regression.md",
     "ML/Logistic Regression.md",
-    "ML/Linear Regression.md",
     "ML/Overfitting.md",
     "ML/Multi-layer Perceptron.md",
     "ML/Backpropagation.md",
@@ -171,12 +172,10 @@
     "img/Pasted image 20240309105337.png",
     "Obsidian-Note",
     "img/Pasted image 20240309101656.png",
-    "img/Pasted image 20240308235203.png",
     "UI - UX/Mô hình thực hiện.md",
     "().md",
     "UI - UX/Các đặc tính của máy tính.md",
     "UI - UX/Hệ tương tác người - máy.md",
-    "KTPM/Agile.md",
     "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
     "ITSS/Untitled.md",
     "ITSS/ITSS.md",
