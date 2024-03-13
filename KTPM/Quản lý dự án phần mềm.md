@@ -30,9 +30,15 @@ Quản lý dự án để đưa ra sản phẩm cuối cùng
 
 #### Các thành phần của quản lý
 1. Con người: Quan trọng nhất
-	1. Các bên liên quan: 
+	-  Các bên liên quan: 
 		- Là cá nhân, nhóm hoặc tổ chức có thể ảnh hưởng, bị ảnh hưởng hoặc thấy bản thân bị ảnh hưởng bởi quyết định hđ hoặc kết quả dự án
-	2. Nhóm phát triển phần mềm
+	- Nhóm phát triển phần mềm
+	- Người quản lý dự án
 2. Sản phẩm
-3. Quy trình
-4. Dự án
+   - Phạm vi sản phẩm (what to make?)
+   - Phạm vi dự án phần mềm (what to do?)
+   - Phân tách vấn đề (problem decomposition)
+   - Các yếu tố kỹ thuật
+   - Yếu tố dự án
+1. Quy trình
+2. Dự án
