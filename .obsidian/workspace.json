@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KTPM/Rủi ro.md",
+                "file": "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KTPM/Rủi ro.md",
+                "file": "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KTPM/Rủi ro.md",
+                "file": "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KTPM/Rủi ro.md"
+                "file": "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "491e6a9352f04a5f",
   "lastOpenFiles": [
-    "KTPM/Quản lý dự án phần mềm.md",
     "KTPM/Rủi ro.md",
+    "KTPM/Quản lý dự án phần mềm.md",
     "KTPM/Lập kế hoạch dự án phần mềm.md",
     "KTPM/Giải quyết bài toán quản lý dự án.md",
     "KTPM/Agile.md",
