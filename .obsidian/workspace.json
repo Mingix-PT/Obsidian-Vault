@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KTPM/Quản lý dự án phần mềm.md",
+                "file": "KTPM/Rủi ro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KTPM/Quản lý dự án phần mềm.md",
+                "file": "KTPM/Rủi ro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KTPM/Quản lý dự án phần mềm.md",
+                "file": "KTPM/Rủi ro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KTPM/Quản lý dự án phần mềm.md"
+                "file": "KTPM/Rủi ro.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "491e6a9352f04a5f",
   "lastOpenFiles": [
+    "KTPM/Quản lý dự án phần mềm.md",
+    "KTPM/Rủi ro.md",
     "KTPM/Lập kế hoạch dự án phần mềm.md",
     "KTPM/Giải quyết bài toán quản lý dự án.md",
     "KTPM/Agile.md",
@@ -156,7 +158,6 @@
     "ML/Feature Engineering.md",
     "ML/Entropy.md",
     "ML/Binary Classification for Multi-class classification.md",
-    "KTPM/Quản lý dự án phần mềm.md",
     "KTPM/Scrum.md",
     "img/Pasted image 20240311101537.png",
     "img/Pasted image 20240311101517.png",
