@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KTPM/Scrum.md",
+                "file": "KTPM/Quản lý dự án phần mềm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KTPM/Scrum.md",
+                "file": "KTPM/Quản lý dự án phần mềm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KTPM/Scrum.md",
+                "file": "KTPM/Quản lý dự án phần mềm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KTPM/Scrum.md"
+                "file": "KTPM/Quản lý dự án phần mềm.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "491e6a9352f04a5f",
   "lastOpenFiles": [
     "KTPM/Agile.md",
+    "KTPM/Quản lý dự án phần mềm.md",
+    "KTPM/Scrum.md",
     "ML/Linear Regression.md",
     "img/Pasted image 20240311101537.png",
     "img/Pasted image 20240311101517.png",
@@ -179,7 +181,6 @@
     "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
     "ITSS/Untitled.md",
     "ITSS/ITSS.md",
-    "KTPM/Scrum.md",
     "KTPM",
     "UI - UX/Questions.md",
     "ML",
