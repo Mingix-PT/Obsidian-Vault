@@ -25,3 +25,6 @@ __Analysis và Design phải cả Top-Down kết hợp với Bottom-Up__
 - Biểu đồ lớp
 	- Biểu đồ lớp phân tích
 	- Biểu đồ lớp design
+
+# Đầu ra
+Analysis: Thực thi use case (use case realization)
