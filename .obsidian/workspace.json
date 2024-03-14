@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITSS/Overview of Analysis & Design.md",
+                "file": "ITSS/Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITSS/Overview of Analysis & Design.md",
+                "file": "ITSS/Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITSS/Overview of Analysis & Design.md",
+                "file": "ITSS/Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITSS/Overview of Analysis & Design.md"
+                "file": "ITSS/Analysis.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "491e6a9352f04a5f",
   "lastOpenFiles": [
+    "ITSS/Overview of Analysis & Design.md",
+    "ITSS/Analysis.md",
     "img/Pasted image 20240314071541.png",
     "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
-    "ITSS/Overview of Analysis & Design.md",
     "ITSS/ITSS.md",
     "ITSS/Untitled.md",
     "KTPM/Rủi ro.md",
@@ -181,7 +182,6 @@
     "img/Pasted image 20240309224503.png",
     "img/Pasted image 20240309105337.png",
     "Obsidian-Note",
-    "img/Pasted image 20240309101656.png",
     "UI - UX/Mô hình thực hiện.md",
     "().md",
     "UI - UX/Các đặc tính của máy tính.md",

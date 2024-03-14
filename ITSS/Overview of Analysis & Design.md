@@ -16,3 +16,12 @@ __Analysis và Design phải cả Top-Down kết hợp với Bottom-Up__
 # Software Architecture
 - Bao gồm các tập quyết định mang tính chiến lược, có ảnh hướng -> tổ chức, thành phần phần mềm.
 - ![[Pasted image 20240314071541.png]]
+# Use case
+## Use case driven
+## Use case realization
+- Biểu đồ tương tác
+	- Biểu đồ giao tiếp
+	- Biểu đồ tương tác
+- Biểu đồ lớp
+	- Biểu đồ lớp phân tích
+	- Biểu đồ lớp design
