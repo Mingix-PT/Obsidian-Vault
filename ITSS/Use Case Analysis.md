@@ -24,3 +24,14 @@
 	- Lớp thực thể: Hành vi với dữ liệu
 	- Lớp điều khiển: Hành vi với use case
 - Phân nhiệm vụ
+
+# Biểu đồ tương tác
+## Biểu đồ trình tự
+- Nhấn mạnh thứ tự thời gian của thông điệp
+- Cấu trúc:![[Pasted image 20240314083817.png]]
+- Trả về kết quả: nét đứt
+- Trả về thông điệp: nét liền
+
+## Biểu đồ giao tiếp
+- Nhấn mạnh vào tương tác![[Pasted image 20240314084948.png]]
+- 
