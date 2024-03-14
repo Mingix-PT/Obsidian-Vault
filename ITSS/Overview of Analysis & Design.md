@@ -11,3 +11,8 @@
 | Functional requirements            | Object lifecycles                   |
 | A small model                      | Nonfunctional requirements          |
 |                                    | A large model                       |
+__Analysis và Design phải cả Top-Down kết hợp với Bottom-Up__
+
+# Software Architecture
+- Bao gồm các tập quyết định mang tính chiến lược, có ảnh hướng -> tổ chức, thành phần phần mềm.
+- ![[Pasted image 20240314071541.png]]
