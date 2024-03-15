@@ -7,3 +7,7 @@
 		3. Enter, Caps Lock
 		4. Backspace, Tab
 	- Lý do: Các phím trên được sử dụng thường xuyên.
+
+
+
+1.
