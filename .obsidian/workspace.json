@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI - UX/Giao diện.md",
+                "file": "UI - UX/Các kiểu tương tác.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI - UX/Giao diện.md",
+                "file": "UI - UX/Các kiểu tương tác.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI - UX/Giao diện.md",
+                "file": "UI - UX/Các kiểu tương tác.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI - UX/Giao diện.md"
+                "file": "UI - UX/Các kiểu tương tác.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "491e6a9352f04a5f",
   "lastOpenFiles": [
+    "UI - UX/Giao diện.md",
+    "UI - UX/Các kiểu tương tác.md",
     "UI - UX/Questions.md",
     "UI - UX/Mô hình thực hiện.md",
     "UI - UX/Hệ tương tác người - máy.md",
-    "UI - UX/Giao diện.md",
     "ITSS/Use Case Analysis.md",
     "img/Pasted image 20240314084948.png",
     "img/Pasted image 20240314083817.png",
@@ -180,7 +181,6 @@
     "ML/Overfitting.md",
     "ML/Backpropagation.md",
     "ML/Preprocessing Data.md",
-    "ML/Perceptron Learning.md",
     "img/Pasted image 20240310233536.png",
     "img/Pasted image 20240310161602.png",
     "img/Pasted image 20240310161549.png",
