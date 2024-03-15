@@ -9,3 +9,5 @@
 
 # Menu
 Tập hợp các lựa chọn có thể cho ND hiện lên trên màn hình và có thể chọn bởi chuột, phím số, phím chữ cái
+
+Cho người dùng các alternative
