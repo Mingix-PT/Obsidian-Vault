@@ -15,7 +15,7 @@ $$f'(x) = \lim_{\varepsilon\to0}\frac{f(x+\varepsilon)-f(x)}{\varepsilon}$$ $$f'
 	
 # GD với momentum
 Ý tưởng: suy nghĩ 1 cách vật lý, coi điểm xét là 1 viên bi lăn dốc, nếu lăn vào local minimum thì cần có đà để vượt lên lăn xuống global minimum
-Đặt $v_t$ là độ dời của viên bi, vị trí mới của viên bi là:
+Đặt $v_t$ là vận tốc của viên bi, vị trí mới của viên bi là:
 $$\theta_{t+1} = \theta - v_t$$
 Cần $v_t$ vừa mang thông tin độ dốc (đạo hàm) vừa mang thông tin của đà $v_{t-1}$ ($v_0=0$)
 $$v_t=\gamma v_{t-1} + \eta \nabla_\theta J(\theta)$$
