@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "883c737c8246a69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Perceptron Learning.md",
+                "file": "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Perceptron Learning.md",
+                "file": "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Perceptron Learning.md"
+                "file": "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md"
               }
             }
           }
@@ -146,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "491e6a9352f04a5f",
+  "active": "883c737c8246a69d",
   "lastOpenFiles": [
     "ML/Gradient Descent.md",
     "UI - UX/Questions.md",
