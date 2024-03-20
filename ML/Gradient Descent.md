@@ -7,7 +7,7 @@ $$ x_{t+1} = x_t - \eta f'(x_t)$$
 		- $\eta$ lớn: Tiến đến đích nhanh nhưng khó hội tụ vì bước nhảy lớn
 	=> Chọn $\eta$ tại mỗi bước
 	
-### GD cho hàm nhiều biến
+### GD cho hàm nhiều biếnh
 	$$\theta_{t+1} = \theta_{t} - \eta\nabla_\theta f(\theta_t)$$
 ### Cách tính xấp xỉ đạo hàm
 $$f'(x) = \lim_{\varepsilon\to0}\frac{f(x+\varepsilon)-f(x)}{\varepsilon}$$ $$f'(x)\approx\frac{f(x+\varepsilon)-f(x-\varepsilon)}{2\varepsilon}$$
