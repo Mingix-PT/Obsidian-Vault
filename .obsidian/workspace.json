@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
+                "file": "ITSS/Use Case Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
+                "file": "ITSS/Use Case Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
+                "file": "ITSS/Use Case Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md"
+                "file": "ITSS/Use Case Analysis.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "883c737c8246a69d",
   "lastOpenFiles": [
+    "ITSS/Overview of Analysis & Design.md",
+    "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
     "ML/Gradient Descent.md",
     "UI - UX/Questions.md",
     "UI - UX/Các kiểu tương tác.md",
@@ -173,9 +175,7 @@
     "img/Pasted image 20240314074943.png",
     "img/Pasted image 20240314073716.png",
     "ITSS/Untitled.md",
-    "ITSS/Overview of Analysis & Design.md",
     "img/Pasted image 20240314071541.png",
-    "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
     "ITSS/ITSS.md",
     "KTPM/Rủi ro.md",
     "KTPM/Quản lý dự án phần mềm.md",
