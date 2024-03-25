@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Multi-layer Perceptron.md",
+                "file": "ML/Langrarian.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Multi-layer Perceptron.md",
+                "file": "ML/Langrarian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Multi-layer Perceptron.md",
+                "file": "ML/Langrarian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Multi-layer Perceptron.md"
+                "file": "ML/Langrarian.md"
               }
             }
           }
@@ -160,6 +160,10 @@
   },
   "active": "491e6a9352f04a5f",
   "lastOpenFiles": [
+    "img/Pasted image 20240325094256.png",
+    "img/Pasted image 20240325094224.png",
+    "ML/Multi-layer Perceptron.md",
+    "ML/Langrarian.md",
     "ML/Softmax Regression.md",
     "ML/Binary Classification for Multi-class classification.md",
     "ML/Logistic Regression.md",
@@ -185,17 +189,13 @@
     "KTPM/Lập kế hoạch dự án phần mềm.md",
     "KTPM/Giải quyết bài toán quản lý dự án.md",
     "KTPM/Agile.md",
-    "ML/Multi-layer Perceptron.md",
     "ML/Linear Regression.md",
     "ML/Feature Engineering.md",
     "ML/Entropy.md",
-    "KTPM/Scrum.md",
     "img/Pasted image 20240311101537.png",
     "img/Pasted image 20240311101517.png",
-    "ML/Overfitting.md",
     "img/Pasted image 20240310233536.png",
     "img/Pasted image 20240310161602.png",
-    "img/Pasted image 20240310161549.png",
     "Obsidian-Note",
     "KTPM",
     "ML",
