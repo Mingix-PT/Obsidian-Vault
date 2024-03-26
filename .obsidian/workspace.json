@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Langrarian.md",
+                "file": "ML/Duality - Đối ngẫu.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Langrarian.md",
+                "file": "ML/Duality - Đối ngẫu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Langrarian.md",
+                "file": "ML/Duality - Đối ngẫu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Langrarian.md"
+                "file": "ML/Duality - Đối ngẫu.md"
               }
             }
           }
@@ -173,10 +173,17 @@
   },
   "active": "50b1a0e95b447bd1",
   "lastOpenFiles": [
+    "img/Pasted image 20240326213504.png",
+    "img/Pasted image 20240326213453.png",
+    "img/Pasted image 20240326213405.png",
+    "img/Pasted image 20240326213216.png",
+    "img/Pasted image 20240326212719.png",
+    "img/Pasted image 20240326212635.png",
+    "img/Pasted image 20240326212626.png",
     "ML/K-means.md",
     "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
     "ITSS/Use Case Analysis.md",
-    "ML/Langrarian.md",
+    "ML/Duality - Đối ngẫu.md",
     "img/Pasted image 20240325101303.png",
     "img/Pasted image 20240325101253.png",
     "img/Pasted image 20240325094256.png",
@@ -193,12 +200,7 @@
     "UI - UX/Giao diện.md",
     "UI - UX/Mô hình thực hiện.md",
     "UI - UX/Hệ tương tác người - máy.md",
-    "img/Pasted image 20240314084948.png",
-    "img/Pasted image 20240314083817.png",
-    "img/Pasted image 20240314074943.png",
-    "img/Pasted image 20240314073716.png",
     "ITSS/Untitled.md",
-    "img/Pasted image 20240314071541.png",
     "ITSS/ITSS.md",
     "KTPM/Rủi ro.md",
     "KTPM/Quản lý dự án phần mềm.md",
@@ -207,8 +209,6 @@
     "KTPM/Agile.md",
     "ML/Linear Regression.md",
     "ML/Feature Engineering.md",
-    "ML/Entropy.md",
-    "img/Pasted image 20240311101537.png",
     "Obsidian-Note",
     "KTPM",
     "ML",
