@@ -21,4 +21,17 @@ Với bài toán tối ưu tổng quát:![[Pasted image 20240326212635.png]]
 ![[Pasted image 20240326213504.png]]
 
 ## Slater’s condition
+![[Pasted image 20240326213559.png]]
 
+# Optimality condition
+## Complementary slackness
+![[Pasted image 20240326213757.png]]
+## KKT optimality conditions
+
+### Bài toán không lồi
+
+![[Pasted image 20240326214052.png]]
+
+### Bài toán lồi
+
+![[Pasted image 20240326214246.png]]
