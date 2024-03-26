@@ -37,4 +37,12 @@ Tuy nhiên có thể phức tạp -> số chiều d lớn => Giải bài toán �
 ![[Pasted image 20240327002114.png]]
 ![[Pasted image 20240327002131.png]]
 ![[Pasted image 20240327002152.png]]
+![[Pasted image 20240327002227.png]]
+Cuối cùng:![[Pasted image 20240327002314.png]]
+Vậy bài toán đối ngẫu có dạng:
 
+![[Pasted image 20240327002336.png]]
+
+Từ điều kiện KTT, ta rút ra được:
+![[Pasted image 20240327002604.png]]
+Như vậy các điểm thỏa mãn $\mathbf{w^{T}x_{n}}+b=y_{n}$ = 1 hoặc -1 là các điểm gần mặt phân chia nhất
