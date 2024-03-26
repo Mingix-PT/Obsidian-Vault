@@ -29,4 +29,12 @@ $$y_{n}(\mathbf{w^{T}x_{n}}+b) \ge 1$$
 ![[Pasted image 20240326224121.png]]
 Dễ thấy hàm mục tiêu lồi, hàm ràng buộc là tuyến tính -> hàm lồi
 => Bài toán lồi => Nghiệm là duy nhất
-Tuy nhiên có thể phức tạp -> số chiều d lớn
+
+Tuy nhiên có thể phức tạp -> số chiều d lớn => Giải bài toán đối ngẫu [[Duality]]
+
+# Bài toán đối ngẫu SVM
+
+![[Pasted image 20240327002114.png]]
+![[Pasted image 20240327002131.png]]
+![[Pasted image 20240327002152.png]]
+
