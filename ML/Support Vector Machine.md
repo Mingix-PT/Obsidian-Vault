@@ -21,4 +21,12 @@ Khoảng cách từ 1 điểm bất kì đến mặt phân chia:
 $$\frac{y_{n}(\mathbf{w^{T}x_{n}}+b)}{||\mathbf{w}||_{2}}$$
 Khi đó margin (lề) được tính là khoảng cách gần nhất từ 1 điểm tới mặt đó:$$\mathbf{margin}=\min_{n}\frac{y_{n}(\mathbf{w^{T}x_{n}}+b)}{||\mathbf{w}||_{2}}$$
 Bài toán tối ưu trở thành:
-$$(\mathbf{w},b)=\underset{\mathbf{w},b}{\mathbf{argmax}(\min_{n})}$$
+$$(\mathbf{w},b)
+=\underset{\mathbf{w},b}{\mathbf{argmax}}(\min_{n} \frac{y_{n}(\mathbf{w^{T}x_{n}}+b)}{||\mathbf{w}||_{2}})
+=\underset{\mathbf{w},b}{\mathbf{argmax}}(\frac{1}{||\mathbf{w}||_{2}}\min_{n}y_{n}(\mathbf{w^{T}x_{n}}+b))$$
+Với mọi n:
+$$y_{n}(\mathbf{w^{T}x_{n}}+b) \ge 1$$
+![[Pasted image 20240326224121.png]]
+Dễ thấy hàm mục tiêu lồi, hàm ràng buộc là tuyến tính -> hàm lồi
+=> Bài toán lồi => Nghiệm là duy nhất
+Tuy nhiên có thể phức tạp -> số chiều d lớn
