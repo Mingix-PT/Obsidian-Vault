@@ -45,4 +45,12 @@ Vậy bài toán đối ngẫu có dạng:
 
 Từ điều kiện KTT, ta rút ra được:
 ![[Pasted image 20240327002604.png]]
-Như vậy các điểm thỏa mãn $\mathbf{w^{T}x_{n}}+b=y_{n}$ = 1 hoặc -1 là các điểm gần mặt phân chia nhất
+Như vậy các điểm thỏa mãn $\mathbf{w^{T}x_{n}}+b=y_{n}=\pm1$ là các điểm gần mặt phân chia nhất
+-> Các điểm (vector) thỏa mãn (14) được gọi là _Support Vectors_
+Tính wT:
+![[Pasted image 20240327003327.png]]
+Tính b:
+![[Pasted image 20240327003339.png]]
+là trung bình cộng của mọi cách tính b
+Vậy mặt phân chia của ta có phương trình:
+![[Pasted image 20240327003425.png]]
