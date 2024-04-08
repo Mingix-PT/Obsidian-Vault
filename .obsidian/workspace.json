@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "540c6704a220bfe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Duality.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Duality.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Duality.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -162,10 +174,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3efcdf2f76735e5e",
+  "active": "540c6704a220bfe9",
   "lastOpenFiles": [
-    "ML/Support Vector Machine.md",
     "ML/Duality.md",
+    "Untitled.md",
+    "ML/Support Vector Machine.md",
     "img/Pasted image 20240327003425.png",
     "img/Pasted image 20240327003339.png",
     "img/Pasted image 20240327003327.png",
