@@ -16,3 +16,12 @@
 	- Chỉ có 1 màu chủ đạo
 	- Có thể thiết lập nhiều kiểu phối màu -> ng dùng chọn
 	- Thiết kế màu __cuối cùng__!
+2. Luồng duyệt tin trên màn hình
+	- Hỗ trợ duyệt tin
+		- Gióng hàng các phần tử giao diện
+		- Nhóm các phần tử giao diện
+		- Sử dụng khung viền
+	- Tập trung và nhấn mạnh vào các phần tử giao diện
+		- Quan trọng
+		- Thứ cấp
+		- Bổ sung
