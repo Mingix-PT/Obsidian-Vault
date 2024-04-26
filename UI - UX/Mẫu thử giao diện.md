@@ -9,3 +9,10 @@
 # Mẫu thử tương tác
 ## Điều hướng (Navigation)
 ## Hỗ trợ tương tác (Interaction support)
+
+# Tạo mẫu thử giao diện
+1. Bản phối màu
+	- Tuân thủ theo 1 dải màu duy nhất
+	- Chỉ có 1 màu chủ đạo
+	- Có thể thiết lập nhiều kiểu phối màu -> ng dùng chọn
+	- Thiết kế màu __cuối cùng__!
