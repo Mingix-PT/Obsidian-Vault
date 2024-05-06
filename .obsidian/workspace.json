@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"ML/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,8 +150,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5eff87ebc9d96f3f",
+  "active": "58c13550997af1a5",
   "lastOpenFiles": [
+    "img/Pasted image 20240506113059.png",
     "ML/Softmax Regression.md",
     "ML/Support Vector Machine.md",
     "UI - UX/Mẫu thử giao diện.md",
@@ -186,7 +188,6 @@
     "KTPM/Quản lý dự án phần mềm.md",
     "KTPM/Lập kế hoạch dự án phần mềm.md",
     "KTPM/Giải quyết bài toán quản lý dự án.md",
-    "KTPM/Agile.md",
     "Obsidian-Note",
     "KTPM",
     "ML",
