@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Softmax Regression.md",
+                "file": "ML/Support Vector Machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Softmax Regression.md",
+                "file": "ML/Support Vector Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Softmax Regression.md",
+                "file": "ML/Support Vector Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Softmax Regression.md"
+                "file": "ML/Support Vector Machine.md"
               }
             }
           }
@@ -149,8 +149,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cdcecd2acd5e331c",
+  "active": "5eff87ebc9d96f3f",
   "lastOpenFiles": [
+    "ML/Softmax Regression.md",
     "ML/Support Vector Machine.md",
     "UI - UX/Mẫu thử giao diện.md",
     "Untitled.md",
@@ -169,7 +170,6 @@
     "ML/K-means.md",
     "ITSS/Use Case Analysis.md",
     "ML/Multi-layer Perceptron.md",
-    "ML/Softmax Regression.md",
     "ML/Binary Classification for Multi-class classification.md",
     "ML/Logistic Regression.md",
     "ML/Perceptron Learning.md",
