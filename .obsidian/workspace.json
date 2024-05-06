@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI - UX/Mẫu thử giao diện.md",
+                "file": "ML/Softmax Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI - UX/Mẫu thử giao diện.md",
+                "file": "ML/Softmax Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI - UX/Mẫu thử giao diện.md",
+                "file": "ML/Softmax Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI - UX/Mẫu thử giao diện.md"
+                "file": "ML/Softmax Regression.md"
               }
             }
           }
@@ -149,12 +149,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5eff87ebc9d96f3f",
+  "active": "cdcecd2acd5e331c",
   "lastOpenFiles": [
+    "ML/Support Vector Machine.md",
     "UI - UX/Mẫu thử giao diện.md",
     "Untitled.md",
     "ML/Duality.md",
-    "ML/Support Vector Machine.md",
     "img/Pasted image 20240327003425.png",
     "img/Pasted image 20240327003339.png",
     "img/Pasted image 20240327003327.png",
