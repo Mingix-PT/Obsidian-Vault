@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Support Vector Machine.md",
+                "file": "UI - UX/Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"ML/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Support Vector Machine.md",
+                "file": "UI - UX/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Support Vector Machine.md",
+                "file": "UI - UX/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Support Vector Machine.md"
+                "file": "UI - UX/Questions.md"
               }
             }
           }
@@ -150,12 +149,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "58c13550997af1a5",
+  "active": "5eff87ebc9d96f3f",
   "lastOpenFiles": [
+    "UI - UX/Mô hình thực hiện.md",
+    "UI - UX/Mẫu thử giao diện.md",
+    "UI - UX/Hệ tương tác người - máy.md",
+    "UI - UX/Giao diện.md",
+    "ML/Support Vector Machine.md",
     "img/Pasted image 20240506113059.png",
     "ML/Softmax Regression.md",
-    "ML/Support Vector Machine.md",
-    "UI - UX/Mẫu thử giao diện.md",
     "Untitled.md",
     "ML/Duality.md",
     "img/Pasted image 20240327003425.png",
@@ -167,7 +169,6 @@
     "img/Pasted image 20240327002227.png",
     "img/Pasted image 20240327002152.png",
     "img/Pasted image 20240327002131.png",
-    "img/Pasted image 20240327002114.png",
     "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
     "ML/K-means.md",
     "ITSS/Use Case Analysis.md",
@@ -179,9 +180,6 @@
     "ML/Gradient Descent.md",
     "UI - UX/Questions.md",
     "UI - UX/Các kiểu tương tác.md",
-    "UI - UX/Giao diện.md",
-    "UI - UX/Mô hình thực hiện.md",
-    "UI - UX/Hệ tương tác người - máy.md",
     "ITSS/Untitled.md",
     "ITSS/ITSS.md",
     "KTPM/Rủi ro.md",
