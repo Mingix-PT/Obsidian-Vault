@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI - UX/Questions.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI - UX/Questions.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI - UX/Questions.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI - UX/Questions.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "5eff87ebc9d96f3f",
   "lastOpenFiles": [
+    "UI - UX/Questions.md",
     "UI - UX/Mô hình thực hiện.md",
     "UI - UX/Mẫu thử giao diện.md",
     "UI - UX/Hệ tương tác người - máy.md",
@@ -178,7 +179,6 @@
     "ML/Perceptron Learning.md",
     "ITSS/Overview of Analysis & Design.md",
     "ML/Gradient Descent.md",
-    "UI - UX/Questions.md",
     "UI - UX/Các kiểu tương tác.md",
     "ITSS/Untitled.md",
     "ITSS/ITSS.md",
