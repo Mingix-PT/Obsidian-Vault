@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KTPM/Giải quyết bài toán quản lý dự án.md",
+                "file": "ML/Duality.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KTPM/Giải quyết bài toán quản lý dự án.md",
+                "file": "ML/Duality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KTPM/Giải quyết bài toán quản lý dự án.md",
+                "file": "ML/Duality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KTPM/Giải quyết bài toán quản lý dự án.md"
+                "file": "ML/Duality.md"
               }
             }
           }
@@ -151,6 +151,9 @@
   },
   "active": "5eff87ebc9d96f3f",
   "lastOpenFiles": [
+    "ML/Binary Classification for Multi-class classification.md",
+    "ML/Duality.md",
+    "KTPM/Giải quyết bài toán quản lý dự án.md",
     "KTPM/Agile.md",
     "AI/L7.md",
     "Untitled",
@@ -163,7 +166,6 @@
     "ML/Support Vector Machine.md",
     "img/Pasted image 20240506113059.png",
     "ML/Softmax Regression.md",
-    "ML/Duality.md",
     "img/Pasted image 20240327003425.png",
     "img/Pasted image 20240327003339.png",
     "img/Pasted image 20240327003327.png",
@@ -177,7 +179,6 @@
     "ML/K-means.md",
     "ITSS/Use Case Analysis.md",
     "ML/Multi-layer Perceptron.md",
-    "ML/Binary Classification for Multi-class classification.md",
     "ML/Logistic Regression.md",
     "ML/Perceptron Learning.md",
     "ITSS/Overview of Analysis & Design.md",
@@ -188,7 +189,6 @@
     "KTPM/Rủi ro.md",
     "KTPM/Quản lý dự án phần mềm.md",
     "KTPM/Lập kế hoạch dự án phần mềm.md",
-    "KTPM/Giải quyết bài toán quản lý dự án.md",
     "Obsidian-Note",
     "KTPM",
     "ML",
