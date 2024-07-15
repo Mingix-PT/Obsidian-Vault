@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "KTPM/Giải quyết bài toán quản lý dự án.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "KTPM/Giải quyết bài toán quản lý dự án.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "KTPM/Giải quyết bài toán quản lý dự án.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "KTPM/Giải quyết bài toán quản lý dự án.md"
               }
             }
           }
@@ -149,8 +149,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cdcecd2acd5e331c",
+  "active": "5eff87ebc9d96f3f",
   "lastOpenFiles": [
+    "KTPM/Agile.md",
+    "AI/L7.md",
+    "Untitled",
     "AI",
     "UI - UX/Questions.md",
     "UI - UX/Mô hình thực hiện.md",
@@ -160,7 +163,6 @@
     "ML/Support Vector Machine.md",
     "img/Pasted image 20240506113059.png",
     "ML/Softmax Regression.md",
-    "Untitled.md",
     "ML/Duality.md",
     "img/Pasted image 20240327003425.png",
     "img/Pasted image 20240327003339.png",
