@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N2/Untitled.md",
+                "file": "N2/Hay vào.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7d143f5f1e48dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N2/Ngữ pháp buổi 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N2/Untitled.md",
+                "file": "N2/Ngữ pháp buổi 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N2/Untitled.md",
+                "file": "N2/Ngữ pháp buổi 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2/Untitled.md"
+                "file": "N2/Ngữ pháp buổi 1.md"
               }
             }
           }
@@ -149,10 +162,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cdcecd2acd5e331c",
+  "active": "d7d143f5f1e48dcb",
   "lastOpenFiles": [
+    "img/Pasted image 20240918152456.png",
+    "N2/Hay vào.md",
+    "N2/Ngữ pháp buổi 1.md",
     "ML/Duality.md",
-    "N2/Untitled.md",
     "N2",
     "ML/Binary Classification for Multi-class classification.md",
     "KTPM/Giải quyết bài toán quản lý dự án.md",
@@ -188,8 +203,6 @@
     "UI - UX/Các kiểu tương tác.md",
     "ITSS/Untitled.md",
     "ITSS/ITSS.md",
-    "KTPM/Rủi ro.md",
-    "KTPM/Quản lý dự án phần mềm.md",
     "Obsidian-Note",
     "KTPM",
     "ML",
