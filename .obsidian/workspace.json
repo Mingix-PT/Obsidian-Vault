@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a66ed811a0a6be71",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +160,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5eff87ebc9d96f3f",
+  "active": "a66ed811a0a6be71",
   "lastOpenFiles": [
     "ML/Binary Classification for Multi-class classification.md",
     "ML/Duality.md",
