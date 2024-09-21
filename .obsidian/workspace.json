@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cc20c024467c031",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N2/Ngữ pháp buổi 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N2/Ngữ pháp buổi 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "N2/Ngữ pháp buổi 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,11 +166,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d7d143f5f1e48dcb",
+  "active": "5cc20c024467c031",
   "lastOpenFiles": [
+    "N2/Ngữ pháp buổi 1.md",
     "img/Pasted image 20240918152456.png",
     "N2/Hay vào.md",
-    "N2/Ngữ pháp buổi 1.md",
     "ML/Duality.md",
     "N2",
     "ML/Binary Classification for Multi-class classification.md",
@@ -191,7 +195,6 @@
     "img/Pasted image 20240327002314.png",
     "img/Pasted image 20240327002227.png",
     "img/Pasted image 20240327002152.png",
-    "img/Pasted image 20240327002131.png",
     "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
     "ML/K-means.md",
     "ITSS/Use Case Analysis.md",
