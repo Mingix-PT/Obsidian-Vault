@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N2/Hay vào.md",
+                "file": "ML/Multi-layer Perceptron.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "ML/Multi-layer Perceptron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "ML/Multi-layer Perceptron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "ML/Multi-layer Perceptron.md"
               }
             }
           }
@@ -174,15 +173,25 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5cc20c024467c031",
+  "active": "9aec3573892da073",
   "lastOpenFiles": [
-    "Untitled.md",
-    "N2/Ngữ pháp buổi 1.md",
-    "img/Pasted image 20240918152456.png",
+    "ML/Logistic Regression.md",
+    "ML/Perceptron Learning.md",
+    "ML/Preprocessing Data.md",
+    "ML/Softmax Regression.md",
+    "ML/Multi-layer Perceptron.md",
+    "ML/Overfitting.md",
+    "ML/Entropy.md",
+    "ML/Linear Regression.md",
+    "ML/K-means.md",
+    "ML/Feature Engineering.md",
+    "ML/Binary Classification for Multi-class classification.md",
     "N2/Hay vào.md",
+    "N2/Ngữ pháp buổi 1.md",
+    "Untitled.md",
+    "img/Pasted image 20240918152456.png",
     "ML/Duality.md",
     "N2",
-    "ML/Binary Classification for Multi-class classification.md",
     "KTPM/Giải quyết bài toán quản lý dự án.md",
     "KTPM/Agile.md",
     "AI/L7.md",
@@ -195,7 +204,6 @@
     "UI - UX/Giao diện.md",
     "ML/Support Vector Machine.md",
     "img/Pasted image 20240506113059.png",
-    "ML/Softmax Regression.md",
     "img/Pasted image 20240327003425.png",
     "img/Pasted image 20240327003339.png",
     "img/Pasted image 20240327003327.png",
@@ -205,16 +213,7 @@
     "img/Pasted image 20240327002227.png",
     "img/Pasted image 20240327002152.png",
     "ITSS/Mô hình hóa yêu cầu phần mềm với biểu đồ Use Case.md",
-    "ML/K-means.md",
     "ITSS/Use Case Analysis.md",
-    "ML/Multi-layer Perceptron.md",
-    "ML/Logistic Regression.md",
-    "ML/Perceptron Learning.md",
-    "ITSS/Overview of Analysis & Design.md",
-    "ML/Gradient Descent.md",
-    "UI - UX/Các kiểu tương tác.md",
-    "ITSS/Untitled.md",
-    "ITSS/ITSS.md",
     "Obsidian-Note",
     "KTPM",
     "ML",
