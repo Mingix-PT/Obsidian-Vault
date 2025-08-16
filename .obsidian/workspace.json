@@ -16,7 +16,21 @@
                 "file": "ML/Multi-layer Perceptron.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Multi-layer Perceptron"
+            }
+          },
+          {
+            "id": "da2531df738945fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           },
           {
@@ -28,7 +42,9 @@
                 "file": "N2/Ngữ pháp buổi 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Ngữ pháp buổi 1"
             }
           },
           {
@@ -40,10 +56,13 @@
                 "file": "Untitled.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,8 +81,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -78,7 +100,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -86,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -117,7 +143,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Multi-layer Perceptron"
             }
           },
           {
@@ -129,7 +157,9 @@
                 "file": "ML/Multi-layer Perceptron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Multi-layer Perceptron"
             }
           },
           {
@@ -139,8 +169,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -149,8 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Multi-layer Perceptron.md"
-              }
+                "file": "ML/Multi-layer Perceptron.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Multi-layer Perceptron"
             }
           }
         ]
@@ -173,7 +212,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9aec3573892da073",
+  "active": "da2531df738945fa",
   "lastOpenFiles": [
     "ML/Logistic Regression.md",
     "ML/Perceptron Learning.md",
